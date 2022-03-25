@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanNotes.Android", "VanNotes\VanNotes.Android\VanNotes.Android.csproj", "{F9AB6811-4918-4108-B3DA-0A74DD7E6FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanNotes", "VanNotes\VanNotes\VanNotes.csproj", "{BE684CD3-E3C2-4F1C-841A-A336E7B1C9B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9AB6811-4918-4108-B3DA-0A74DD7E6FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AB6811-4918-4108-B3DA-0A74DD7E6FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AB6811-4918-4108-B3DA-0A74DD7E6FCD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F9AB6811-4918-4108-B3DA-0A74DD7E6FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AB6811-4918-4108-B3DA-0A74DD7E6FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AB6811-4918-4108-B3DA-0A74DD7E6FCD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BE684CD3-E3C2-4F1C-841A-A336E7B1C9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE684CD3-E3C2-4F1C-841A-A336E7B1C9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE684CD3-E3C2-4F1C-841A-A336E7B1C9B5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BE684CD3-E3C2-4F1C-841A-A336E7B1C9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE684CD3-E3C2-4F1C-841A-A336E7B1C9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE684CD3-E3C2-4F1C-841A-A336E7B1C9B5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE31BFA-F815-4C5A-8DA4-908F7E5F9C52}
+	EndGlobalSection
+EndGlobal
